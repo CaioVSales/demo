@@ -1,4 +1,3 @@
-```markdown
 # Java Spring Boot Study Project
 
 ![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.3-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue)
@@ -62,4 +61,3 @@ If you'd like to contribute to this project or have suggestions, feel free to op
 
 ## License
 No license
-```
