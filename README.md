@@ -1,6 +1,6 @@
 # Java Spring Boot Study Project
 
-![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.3-brightgreen) ![Java](https://img.shields.io/badge/Java-17-blue)
+![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.3-brightgreen) ![Java](https://img.shields.io/badge/Java-21-blue)
 
 This is a study project created with Java 21 and the latest version of Spring Boot. The purpose of this project is to serve as an initial exploration, setting the groundwork for a more extensive project.
 
